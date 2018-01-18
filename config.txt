@@ -1,10 +1,10 @@
-﻿<version>2.32</version>  ///最新版本
+<version>2.32</version>  ///最新版本
 
 <explain>修复一些bug</explain>  ///更新说明
 
 <update>http://ltds.nos-eastchina1.126.net/YVideo.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
 
-<analysis>http://beaacc.com/api.php?url=</analysis>  ///解析接口
+<analysis>http://jx.119ym.com/jx/index.php?url=</analysis>  ///解析接口
 
 <text>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！APP下载地址：http://fir.im/yvideos</text>  ///分享内容
 
