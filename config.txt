@@ -1,15 +1,5 @@
 <version>3.2</version>  ///最新版本
 
-<gonggao>100={公告内容="需要做这款app的或者需要这款源码的请直接联系管理员QQ2100332932"}</gonggao>
-
-<photo>/*方式=0使用软件浏览器打开,=1使用手机系统浏览器,=其他不打开*/
-txt01={
-@01="方式=[0],图片=[http://t.cn/ROsHxcw],标题=[凤凰无双],地址=[http://www.iqiyi.com/a_19rrh9v3ct.html]"
-@01="方式=[0],图片=[http://t.cn/RlzqD88],标题=[APP定制],地址=[http://wpa.qq.com/msgrd?v=3&uin=2100332932&site=qq&amp;menu=yes]"
-@01="方式=[0],图片=[http://t.cn/ROs8I99],标题=[王牌特工],地址=[http://www.iqiyi.com/v_19rrnqzc4g.html]"
-};
-</photo>
-
 <explain>修复一些bug</explain>  ///更新说明
 
 <update>http://ltds.nos-eastchina1.126.net/YVideo.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
@@ -19,3 +9,13 @@ txt01={
 <text>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！APP下载地址：http://fir.im/yvideo</text>  ///分享内容
 
 <qq>228231483</qq>  ///专属客服QQ号码
+
+<gonggao>100={公告内容="需要做这款app的或者需要这款源码的请直接联系管理员QQ2100332932"}</gonggao>
+
+<photo>/*方式=0使用软件浏览器打开,=1使用手机系统浏览器,=其他不打开*/
+txt01={
+@01="方式=[0],图片=[http://t.cn/ROsHxcw],标题=[凤凰无双],地址=[http://www.iqiyi.com/a_19rrh9v3ct.html]"
+@01="方式=[0],图片=[http://t.cn/RlzqD88],标题=[APP定制],地址=[http://wpa.qq.com/msgrd?v=3&uin=2100332932&site=qq&amp;menu=yes]"
+@01="方式=[0],图片=[http://t.cn/ROs8I99],标题=[王牌特工],地址=[http://www.iqiyi.com/v_19rrnqzc4g.html]"
+};
+</photo>
