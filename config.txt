@@ -2,9 +2,9 @@
 
 <explain>修复一些bug</explain>  ///更新说明
 
-<update>http://ltds.nos-eastchina1.126.net/YVideo.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
+<update>https://pan.lanzou.com/i0eagmh</update>  ///下载地址，把后缀名apk修改成rar即可。
 
-<analysis>http://jx.ejiafarm.com/dy.php?url=</analysis>  ///解析接口
+<analysis>http://000o.cc/jx/ty.php?url=</analysis>  ///解析接口
 
 <text>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！APP下载地址：http://fir.im/yvideo</text>  ///分享内容
 
