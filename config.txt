@@ -1,8 +1,8 @@
 <version>3.2</version>  ///最新版本
 
-<explain>修复一些bug</explain>  ///更新说明
+<explain>修复一些bug,新增一些工具</explain>  ///更新说明
 
-<update>https://htjyh.000webhostapp.com/yvideo/apk.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
+<update>https://htjyh.000webhostapp.com/yvideo/yvideo.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
 
 <analysis>http://jx.ejiafarm.com/dy.php?url=</analysis>  ///解析接口
 
