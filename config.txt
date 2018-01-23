@@ -2,7 +2,7 @@
 
 <explain>修复已知bug,新增一些实用工具！</explain>  ///更新说明
 
-<update>https://htjyh.000webhostapp.com/yvideo/yvideo.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
+<update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
 
 <analysis>http://y.mt2t.com/lines?url=</analysis>  ///解析接口
 
