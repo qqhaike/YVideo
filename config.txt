@@ -10,7 +10,10 @@
 
 <qq>228231483</qq>  ///专属客服QQ号码
 
-<gongao>100={公告内容="软件已更新完毕，感谢大家支持本软件"}</gonggao>  ///公告内容
+<gongao>
+100={公告内容="软件已更新完毕，感谢大家支持本软件"}；
+101={poster="https://gitee.com/xsygif/YVideos/raw/master/config.txt"}
+</gonggao>  ///公告内容
 
 <ad>
 txt01={
