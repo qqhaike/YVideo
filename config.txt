@@ -2,10 +2,20 @@
 
 <explain>修复已知bug,新增一些实用工具！</explain>  ///更新说明
 
-<update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，把后缀名apk修改成rar即可。
+<update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 
 <analysis>http://y.mt2t.com/lines?url=</analysis>  ///解析接口
 
 <text>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！APP下载地址：http://fir.im/yvideo</text>  ///分享内容
 
 <qq>228231483</qq>  ///专属客服QQ号码
+
+<gongao>100={公告内容="软件已更新完毕，感谢大家支持本软件"}</gonggao>  ///公告内容
+
+<ad>
+txt01={
+@01="方式=[1],图片=[http://suo.im/1qkjJX],标题=[天猫领券],地址=[http://m.367z.cn/]"
+@01="方式=[1],图片=[http://suo.im/3oaonZ],标题=[官方QQ群],地址=[https://jq.qq.com/?_wv=1027&k=55cCiBn]"
+};
+</ad>
+///自定义轮播广告
