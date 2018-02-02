@@ -1,4 +1,4 @@
-<version>3.3</version>  ///最新版本
+<version>3.4</version>  ///最新版本
 
 <explain>修复已知bug,新增一些实用工具！</explain>  ///更新说明
 
