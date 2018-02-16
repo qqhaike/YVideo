@@ -1,6 +1,6 @@
 <version>3.6</version>  ///最新版本
 
-<explain>1.新增淘宝优惠卷功能|2.新增清除缓存功能|3.修改播放出错可重新载入|4.优化软件启动界面。</explain>  ///更新说明
+<explain>1.新增淘宝优惠卷功能2.新增清除缓存功能3.修改播放出错可重新载入4.优化软件启动界面。</explain>  ///更新说明
 
 <update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 
