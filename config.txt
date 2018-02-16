@@ -1,6 +1,6 @@
-<version>3.5</version>  ///最新版本
+<version>3.6</version>  ///最新版本
 
-<explain>新增3条无广告解析接口，增加自动播放功能，修改电视直播可直接播放，优化软件界面。</explain>  ///更新说明
+<explain>新增淘宝优惠卷功能，新增清除缓存功能，修改播放出错可重新载入，优化软件启动界面。</explain>  ///更新说明
 
 <update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 
