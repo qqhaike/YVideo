@@ -1,0 +1,5 @@
+{@mc      新加坡亚洲新闻 | @dzhttp://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8|
+@mc      美國中文台 | @dzhttp://ec.sinovision.net/video/ts/lv.m3u8|
+@mc      美东频道 | @dzhttp://174.127.67.246/live330/playlist.m3u8|
+@mc      英国天空新闻台 | @dzhttp://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8| 
+@mc      韩国EBS2 | @dzhttp://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8| }
