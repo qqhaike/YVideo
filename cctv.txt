@@ -10,6 +10,6 @@
 @mc      CCTV-10 | @dzhttp://183.252.176.12//PLTV/88888888/224/3221225931/index.m3u8| 
 @mc      CCTV-11 | @dzhttp://183.207.249.10/PLTV/3/224/3221225552/index.m3u8| 
 @mc      CCTV-12 | @dzhttp://183.252.176.48//PLTV/88888888/224/3221225932/index.m3u8| 
-@mc      CCTV-13新闻 | @dzhttp://183.252.176.22//PLTV/88888888/224/3221225933/index.m3u8| 
+@mc      CCTV-13 | @dzhttp://183.252.176.22//PLTV/88888888/224/3221225933/index.m3u8| 
 @mc     CCTV-少儿 | @dzhttp://live.aikan.miguvideo.com/wd_r2/ocn/cctv14hd/1200/01.m3u8| 
 @mc      CCTV-音乐 | @dzhttp://223.110.245.172//PLTV/3/224/3221225568/index.m3u8| }
