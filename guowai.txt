@@ -2,4 +2,6 @@
 @mc      美國中文台 | @dzhttp://ec.sinovision.net/video/ts/lv.m3u8|
 @mc      美东频道 | @dzhttp://174.127.67.246/live330/playlist.m3u8|
 @mc      英国天空新闻台 | @dzhttp://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8| 
-@mc      韩国EBS2 | @dzhttp://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8| }
+@mc      韩国EBS2 | @dzhttp://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8|
+@mc      法国时装 | @dzhttp://185.180.15.101:1935/livelowedge/_definst_/fashiontv.stream/chunklist_w2146795728.m3u8?v=1&k=0&token=4177716881bf74deb210b35d33730372c7cda224e558dc21aadbc6eaaea0eb34&ak=2841822&time=1502684619677|
+ }
