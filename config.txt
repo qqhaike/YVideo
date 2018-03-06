@@ -14,7 +14,7 @@
 <qq>228231483</qq>  ///专属客服QQ号码
 
 <admin>
-<guanggao>
+<ADMIN10000>
 10007={公告内容="观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！"};
 20000={轮播数量="5"};
 20001={轮播一方式="3",轮播一标题="首页",轮播一图片="http://wanni868.com/ZzysAPP/zzys1.jpg",轮播一地址="496420406"};
@@ -23,7 +23,7 @@
 20004={轮播四方式="3",轮播四标题="点击购买源码",轮播四图片="http://wanni868.com/ZzysAPP/zzys4.png",轮播四内容="496420406"};
 20005={轮播五方式="4",轮播五标题="加入交流群",轮播五图片="http://wanni868.com/ZzysAPP/zzys5.jpg",轮播五内容="KDPRftg0B4ZzIAVNLFoMsUcJ715vbeGt"};
 </admin>
-</guanggao>
+</ADMIN10000>
 
 
 
