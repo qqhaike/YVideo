@@ -17,10 +17,10 @@
 
 <guanggao>
 20000={轮播数量="5"};
-20001={轮播一方式="3",轮播一标题="首页",轮播一图片="http://wanni868.com/ZzysAPP/zzys1.jpg",轮播一地址="496420406"};
-20002={轮播二方式="3",轮播二标题="广告位招租",轮播二图片="http://wanni868.com/ZzysAPP/zzys2.jpg",轮播二内容="496420406"};
+20001={轮播一方式="3",轮播一标题="首页",轮播一图片="http://wanni868.com/ZzysAPP/zzys1.jpg",轮播一地址="228231483"};
+20002={轮播二方式="3",轮播二标题="广告位招租",轮播二图片="http://wanni868.com/ZzysAPP/zzys2.jpg",轮播二内容="228231483"};
 20003={轮播三方式="2",轮播三标题="点击领取红包",轮播三图片="http://wanni868.com/ZzysAPP/zzys3.jpg",轮播三内容="http://t.cn/REHalOR"};
-20004={轮播四方式="3",轮播四标题="点击购买源码",轮播四图片="http://wanni868.com/ZzysAPP/zzys4.png",轮播四内容="496420406"};
-20005={轮播五方式="4",轮播五标题="加入交流群",轮播五图片="http://wanni868.com/ZzysAPP/zzys5.jpg",轮播五内容="KDPRftg0B4ZzIAVNLFoMsUcJ715vbeGt"};
+20004={轮播四方式="3",轮播四标题="点击购买源码",轮播四图片="http://wanni868.com/ZzysAPP/zzys4.png",轮播四内容="228231483"};
+20005={轮播五方式="4",轮播五标题="加入交流群",轮播五图片="http://wanni868.com/ZzysAPP/zzys5.jpg",轮播五内容="9crv0d9b581KyTboCnFxRLMFxuRkOG5"};
 </guanggao>  *方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->跳转QQ,4->跳转QQQ群   ///发现页广告
 
