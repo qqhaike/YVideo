@@ -2,6 +2,8 @@
 
 <explain>1.修复清除缓存功能2.微调下载更新功能！</explain>  ///更新说明
 
+<photo>http://img1.ph.126.net/oGr6zb4tduxJnhspGSZbYQ==/144396663152741419.jpg</photo>///首页启动图
+
 <update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 
 <analysis>http://2mm.vc/?url=</analysis>  
