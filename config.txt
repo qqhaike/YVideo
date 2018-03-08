@@ -23,6 +23,6 @@
 <guanggao>
 20000={轮播数量="2"};
 20001={轮播一方式="4",轮播一标题="首页",轮播一图片="http://img2.ph.126.net/PwwCO07h1pN4zYfrQpPRvA==/6597940579867905617.jpg",轮播一地址="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
-20002={轮播三方式="2",轮播三标题="点击领取红包",轮播三图片="http://img0.ph.126.net/N5C3edAmH8APDNr0CpmVQw==/6631522963516770555.jpg",轮播三内容="http://t.cn/REHalOR"};
+20002={轮播二方式="2",轮播二标题="点击领取红包",轮播二图片="http://img0.ph.126.net/N5C3edAmH8APDNr0CpmVQw==/6631522963516770555.jpg",轮播二内容="http://t.cn/REHalOR"};
 </guanggao>  2000-2005 *方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->跳转QQ,4->跳转QQQ群   ///首页轮播广告
 
