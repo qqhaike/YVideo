@@ -17,6 +17,8 @@
 
 <gonggao>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！</gonggao>  ///发现页公告
 
+<taobao>http://ytk.yhgtb.net</taobao>///淘宝客网址
+
 <guanggao>
 20000={轮播数量="5"};
 20001={轮播一方式="3",轮播一标题="首页",轮播一图片="http://wanni868.com/ZzysAPP/zzys1.jpg",轮播一地址="228231483"};
