@@ -15,9 +15,10 @@
 
 <qq>228231483</qq>  ///专属客服QQ号码
 
-<gonggao>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！</gonggao>  ///发现页公告
+<gonggao>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！</gonggao>  ///首页公告
 
 <taobao>http://ytk.yhgtb.net</taobao>///淘宝客网址
+<qiangban>http://m.babayu.com</qiangban>///枪版电影网址
 
 <guanggao>
 20000={轮播数量="5"};
@@ -26,5 +27,5 @@
 20003={轮播三方式="2",轮播三标题="点击领取红包",轮播三图片="http://wanni868.com/ZzysAPP/zzys3.jpg",轮播三内容="http://t.cn/REHalOR"};
 20004={轮播四方式="3",轮播四标题="点击购买源码",轮播四图片="http://wanni868.com/ZzysAPP/zzys4.png",轮播四内容="228231483"};
 20005={轮播五方式="4",轮播五标题="加入交流群",轮播五图片="http://wanni868.com/ZzysAPP/zzys5.jpg",轮播五内容="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
-</guanggao>  *方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->跳转QQ,4->跳转QQQ群   ///发现页广告
+</guanggao>  *方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->跳转QQ,4->跳转QQQ群   ///首页轮播广告
 
