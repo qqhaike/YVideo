@@ -7,11 +7,12 @@
 <update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 
 <analysis>http://2mm.vc/?url=</analysis>
+<analysis0>http://2mm.vc/?url=</analysis0>
 <analysis1>http://www.27v9.cn/1/?url=</analysis1>  
 <analysis2>http://y.mt2t.com/lines?url=</analysis2>
 <analysis3>https://yy6988.xyz/01/?url=</analysis3>
-<analysis4>http://www.37lt.cn/jx/37lt.php?url=</analysis4>
-<analysis5>http://yy6988.xyz/03/?url=</analysis5>///解析接口
+<analysis4>http://www.147xy.top/24v/index.php/?url=</analysis4>
+<analysis5>http://www.714xy.com/vipjx/index.php?url=</analysis5>///解析接口
 
 
 <fxbt>悦视频-最新电影抢先看</fxbt>///QQ分享标题
@@ -22,8 +23,8 @@
 
 <qq>228231483</qq>  ///专属客服QQ号码
 
-<gonggao>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！</gonggao>  ///首页公告
-<gonggao1>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！</gonggao1>  ///播放页公告
+<gonggao>欢迎您使用悦视频，观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！</gonggao>  ///首页公告
+<gonggao1>温馨提示：默认解析线路兼容最好 ，如果不能播放请点击下方第一个按钮切换播放线路，播放出错请点击第二个按钮刷新！</gonggao1>  ///播放页公告
 
 <taobao>http://ytk.yhgtb.net</taobao>///淘宝客网址
 <qiangban>http://m.babayu.com</qiangban>///枪版电影网址
