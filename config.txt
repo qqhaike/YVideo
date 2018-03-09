@@ -1,6 +1,6 @@
 <version>3.7</version>  ///最新版本
 
-<explain>1.修复清除缓存功能2.微调下载更新功能！</explain>  ///更新说明
+<explain>1.界面全新改版，全局优化\n2.解析线路增加为5个\n3.新增战旗Tv在线直播\n4.新增迅雷影视可下载\n5.增加QQ运动步数修改器\n6.增加枪版资源\n7.增加发现页小视频</explain>  ///更新说明
 
 <photo>http://img1.ph.126.net/oGr6zb4tduxJnhspGSZbYQ==/144396663152741419.jpg</photo>///首页启动图
 
@@ -27,7 +27,7 @@
 <gonggao1>温馨提示：默认解析线路兼容最好 ，稳定无广告，如果不能播放请点击下方第一个按钮切换播放线路，播放出错请点击第二个按钮刷新！</gonggao1>  ///播放页公告
 
 <taobao>http://ytk.yhgtb.net</taobao>///淘宝客网址
-<qiangban>http://m.babayu.com</qiangban>///枪版电影网址
+<qiangban>http://www.qiqiyingshi.cn/</qiangban>///枪版电影网址
 
 <guanggao>
 20000={轮播数量="2"};
