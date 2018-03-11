@@ -29,7 +29,7 @@
 <qiangban>http://www.qiqiyingshi.cn/</qiangban>///枪版电影网址
 
 <guanggao>
-20000={轮播数量="3"};
+20000={轮播数量="4"};
 20001={轮播一方式="2",轮播一标题="点击下载最新修复版",轮播一图片="http://img1.ph.126.net/E58y0yHUO6fbOdoVffgiTQ==/6597752563379534878.jpg",轮播一内容="https://pan.lanzou.com/b174431/"};
 20002={轮播二方式="2",轮播二标题="点击领取支付宝红包",轮播二图片="http://img0.ph.126.net/N5C3edAmH8APDNr0CpmVQw==/6631522963516770555.jpg",轮播二内容="http://t.cn/REHalOR"};
 20003={轮播三方式="4",轮播三标题="点击加入悦视频交流群",轮播三图片="http://img2.ph.126.net/PwwCO07h1pN4zYfrQpPRvA==/6597940579867905617.jpg",轮播三内容="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
