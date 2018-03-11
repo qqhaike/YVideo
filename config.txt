@@ -2,7 +2,7 @@
 
 <explain>1.界面改版，全局细节优化|2.解析线路增加为5个|3.新增战旗Tv在线直播|4.新增迅雷影视可下载|5.增加QQ运动步数修改器|6.增加枪版资源|7.增加发现页小视频|8.修复大屏手机点击触控不准的问题</explain>  ///更新说明
 
-<update>https://gitee.com/xsygif/YVideos/raw/master/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
+<update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 
 <analysis>http://2mm.vc/?url=</analysis>
 <analysis0>http://2mm.vc/?url=</analysis0>
