@@ -2,10 +2,7 @@
 
 <explain>1.界面改版，全局细节优化|2.解析线路增加为5个|3.新增战旗Tv在线直播|4.新增迅雷影视可下载|5.增加QQ运动步数修改器|6.增加枪版资源|7.增加发现页小视频|8.修复大屏手机点击触控不准的问题</explain>  ///更新说明
 
-<photo>http://img1.ph.126.net/oGr6zb4tduxJnhspGSZbYQ==/144396663152741419.jpg</photo>///首页启动图
-<photo1>http://img1.ph.126.net/Aww9YH-zCAZohHWT_WwHdw==/6597682194635357221.jpg</photo1>///播放页广告
-
-<update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
+<update>https://gitee.com/xsygif/YVideos/raw/master/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 
 <analysis>http://2mm.vc/?url=</analysis>
 <analysis0>http://2mm.vc/?url=</analysis0>
@@ -34,7 +31,7 @@
 20000={轮播数量="2"};
 20001={轮播一方式="4",轮播一标题="点击加入悦视频交流群",轮播一图片="http://img2.ph.126.net/PwwCO07h1pN4zYfrQpPRvA==/6597940579867905617.jpg",轮播一内容="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
 20002={轮播二方式="2",轮播二标题="点击领取支付宝红包",轮播二图片="http://img0.ph.126.net/N5C3edAmH8APDNr0CpmVQw==/6631522963516770555.jpg",轮播二内容="http://t.cn/REHalOR"};
-20003={轮播三方式="2",轮播三标题="点击领取红包",轮播三图片="http://wanni868.com/ZzysAPP/zzys3.jpg",轮播三内容="http://t.cn/REHalOR"};
+20003={轮播三方式="2",轮播三标题="点击下载最新修复版",轮播三图片="http://wanni868.com/ZzysAPP/zzys3.jpg",轮播三内容="https://pan.lanzou.com/b174431/"};
 20004={轮播四方式="3",轮播四标题="点击购买源码",轮播四图片="http://wanni868.com/ZzysAPP/zzys4.png",轮播四内容="228231483"};
 20005={轮播五方式="4",轮播五标题="加入交流群",轮播五图片="http://wanni868.com/ZzysAPP/zzys5.jpg",轮播五内容="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
 </guanggao>  2000-2005 *方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->跳转QQ,4->跳转QQQ群   ///首页轮播广告
