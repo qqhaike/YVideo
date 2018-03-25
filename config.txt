@@ -5,10 +5,10 @@
 <update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 <update1>https://pan.lanzou.com/b174431/</update1> ///备用下载地址
 
-<analysis>http://2mm.vc/?url=</analysis>
-<analysis0>http://2mm.vc/?url=</analysis0>
+<analysis>http://y.mt2t.com/lines?url=</analysis>
+<analysis0>http://y.mt2t.com/lines?url=</analysis0>
 <analysis1>http://www.27v9.cn/1/?url=</analysis1>  
-<analysis2>http://y.mt2t.com/lines?url=</analysis2>
+<analysis2>http://2mm.vc/?url=</analysis2>
 <analysis3>http://2mm.vc/api.php?url=</analysis3>
 <analysis4>http://jx.ejiafarm.com/dy.php?url=</analysis4>
 <analysis5>http://jx.vipjiexi360.com/youku/apiget.php?url=</analysis5>///解析接口
