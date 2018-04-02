@@ -1,6 +1,6 @@
 <version>3.8</version>  ///最新版本
 
-<explain>1.界面改版，全局细节优化|2.解析线路增加为5个|3.新增战旗Tv在线直播|4.新增迅雷影视可下载|5.增加QQ运动步数修改器|6.增加枪版资源|7.增加发现页小视频|8.修复大屏手机点击触控不准的问题</explain>  ///更新说明
+<explain>1.新增娱乐视频|2.新增花椒直播|3.新增在线音乐|4.新增块看漫画|5.淘优惠劵可跳转到淘宝领劵|6.修复一些已知bug|</explain>  ///更新说明
 
 <update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 <update1>https://pan.lanzou.com/b174431/</update1> ///备用下载地址
