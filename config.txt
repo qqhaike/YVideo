@@ -3,6 +3,7 @@
 <explain>1.新增娱乐视频|2.新增花椒直播|3.新增在线音乐|4.新增块看漫画|5.淘优惠劵可跳转到淘宝领劵|6.修复一些已知bug|</explain>  ///更新说明
 
 <update>https://raw.githubusercontent.com/qqhaike/YVideo/master/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
+
 <update1>https://pan.lanzou.com/b174431/</update1> ///备用下载地址
 
 <analysis>http://2mm.vc/?url=</analysis>
@@ -13,26 +14,24 @@
 <analysis4>http://jx.ejiafarm.com/dy.php?url=</analysis4>
 <analysis5>http://jx.vipjiexi360.com/youku/apiget.php?url=</analysis5>///解析接口
 
-
-
 <text>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！APP下载地址：https://pan.lanzou.com/b174431/</text>  ///分享内容
 
 <qq>1030675043</qq>  ///专属客服QQ号码
 
 <gonggao>欢迎您使用悦视频，观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,请记得分享给您的朋友使用哦！</gonggao>  ///首页公告
+
 <gonggao1>温馨提示：默认解析线路兼容最好 ，稳定无广告，如果不能播放请点击下方第一个按钮切换播放线路，播放出错请点击第二个按钮刷新！</gonggao1>  ///播放页公告
 
 <taobao>http://ytk.yhgtb.net</taobao>///淘宝客网址
+
 <qiangban>http://www.qiqiyingshi.cn/</qiangban>///枪版电影网址
 
 <guanggao>
 20000={轮播数量="2"};
-20001={轮播一方式="2",轮播一标题="点击每月领劵省钱",轮播一图片="http://img0.ph.126.net/3WdmN2yrDhGTM53sIxI67Q==/3769794363186050220.jpg",轮播一内容="http://hshaha03.com/?inviteCode=H2KSJFO
-"};
-20002={轮播二方式="2",轮播二标题="点击领取支付宝红包",轮播二图片="http://img0.ph.126.net/N5C3edAmH8APDNr0CpmVQw==/6631522963516770555.jpg",轮播二内容="http://t.cn/REHalOR"};
-20003={轮播三方式="4",轮播三标题="点击加入悦视频交流群",轮播三图片="http://img2.ph.126.net/PwwCO07h1pN4zYfrQpPRvA==/6597940579867905617.jpg",轮播三内容="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
-20004={轮播四方式="2",轮播四标题="点击每月领劵省钱",轮播四图片="http://img0.ph.126.net/3WdmN2yrDhGTM53sIxI67Q==/3769794363186050220.jpg",轮播四内容="http://hshaha03.com/?inviteCode=H2KSJFO
-"};
-20005={轮播五方式="4",轮播五标题="加入交流群",轮播五图片="http://wanni868.com/ZzysAPP/zzys5.jpg",轮播五内容="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
+20001={轮播方式="2",轮播标题="点击每月领劵省钱",轮播图片="http://img0.ph.126.net/3WdmN2yrDhGTM53sIxI67Q==/3769794363186050220.jpg",轮播内容="http://hshaha03.com/?inviteCode=H2KSJFO"};
+20002={轮播方式="2",轮播标题="点击领取支付宝红包",轮播图片="http://img0.ph.126.net/N5C3edAmH8APDNr0CpmVQw==/6631522963516770555.jpg",轮播内容="http://t.cn/REHalOR"};
+20003={轮播方式="4",轮播标题="点击加入悦视频交流群",轮播图片="http://img2.ph.126.net/PwwCO07h1pN4zYfrQpPRvA==/6597940579867905617.jpg",轮播内容="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
+20004={轮播方式="2",轮播标题="点击每月领劵省钱",轮播图片="http://img0.ph.126.net/3WdmN2yrDhGTM53sIxI67Q==/3769794363186050220.jpg",轮播内容="http://hshaha03.com/?inviteCode=H2KSJFO"};
+20005={轮播方式="4",轮播标题="加入交流群",轮播图片="http://wanni868.com/ZzysAPP/zzys5.jpg",轮播内容="UjSO2DtEDRm5Sxu1o9hrp5xCjInkUkuc"};
 </guanggao>  2000-2005 *方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->跳转QQ,4->跳转QQQ群   ///首页轮播广告
 
