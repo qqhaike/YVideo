@@ -2,7 +2,7 @@
 
 <explain>1.新增娱乐视频|2.新增花椒直播|3.新增在线音乐|4.新增块看漫画|5.淘优惠劵可跳转到淘宝领劵|6.修复一些已知bug|</explain>  ///更新说明
 
-<update>http://66843.30301013.webpagetest.top/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
+<update>https://raw.githubusercontent.com/qqhaike/YVideo/master/app/yvideo.apk</update>  ///下载地址，后缀名为apk。
 <update1>https://pan.lanzou.com/b174431/</update1> ///备用下载地址
 
 <analysis>http://2mm.vc/?url=</analysis>
@@ -14,11 +14,8 @@
 <analysis5>http://jx.vipjiexi360.com/youku/apiget.php?url=</analysis5>///解析接口
 
 
-<fxbt>悦视频-最新电影抢先看</fxbt>///QQ分享标题
-<fxms>前任3：再见前任,勇敢者游戏：决战丛林,芳华等最新电影免费抢先看</fxms>///QQ分享描述
-<fxlj>https://pan.lanzou.com/b174431?time=</fxlj>///QQ分享链接
-<fxtp>http://img0.ph.126.net/q1rPvvUTPZwK8CljLOPB-A==/6608233108214964459.jpg</fxtp>///QQ微信分享图片
-<text>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！APP下载地址：https://pan.lanzou.com/b174431/</text>  ///微信分享内容
+
+<text>观看(全网VIP视频),不用开通VIP会员！就能畅看全网VIP视频啦,省钱利器！赶紧试试吧！APP下载地址：https://pan.lanzou.com/b174431/</text>  ///分享内容
 
 <qq>228231483</qq>  ///专属客服QQ号码
 
